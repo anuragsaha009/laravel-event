@@ -7,7 +7,7 @@ Create Laravel Events
  
 **Creating Listeners Class**
 
- *php artisan make:listener BlogListener *
+ *php artisan make:listener BlogListener*
  
  **Registered EventServiceProvider**
  
